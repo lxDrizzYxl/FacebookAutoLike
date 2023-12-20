@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name		Facebook Auto Like  2023
-// @namespace			http://www.hinged-software.com
+// @namespace			https://www.hinged-software.com
 // @author		DrizzY <xxt.drizzyxx@gmail.com> 
-// @description		Auto Like and unlike Facebook Status, Comments, Photos, group posts, page posts, group posts, lists, page feeds, events, timeline photos unlimited times...
+// @description		Auto Like and unlike Facebook Status, Comments, Photos, Group Posts, Page Posts, Group Posts, Lists, Page Feeds, Events, Timeline Photos, an unlimited amount of times...
 // @icon		https://github.com/lxDrizzYxl/FacebookAutoLike/raw/master/images/icon.png	  
 // @updateURL			https://raw.githubusercontent.com/lxDrizzYxl/FacebookAutoLike/master/FacebookAutoLike.meta.js
 // @downloadURL			https://raw.githubusercontent.com/lxDrizzYxl/FacebookAutoLike/master/FacebookAutoLike.user.js
